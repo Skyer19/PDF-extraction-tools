@@ -9,7 +9,7 @@ Existing no OCR packages
 
 OCR packages
 
-- pytesseract： [pytesseract]([链接地址](https://github.com/DamNT055/pdf2text))
+- pytesseract： [pdf2text](https://github.com/DamNT055/pdf2text)
 - tesseract-ocr
 
 
