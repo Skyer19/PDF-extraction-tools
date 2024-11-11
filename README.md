@@ -15,5 +15,4 @@ OCR packages
 - tesseract-ocr: [multilingual-pdf2text](https://github.com/shahrukhx01/multilingual-pdf2text)
 
   [Scanned PDF Text Extrater](https://github.com/arjun-mavonic/scanned-pdf-text-extractor)
-
-Consider layout analysis
+  [PDF-Data-Extractor](https://github.com/jonehuan98/PDF-Data-Extractor)
