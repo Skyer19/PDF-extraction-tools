@@ -14,5 +14,5 @@ OCR packages
 - pytesseract： [pdf2text](https://github.com/DamNT055/pdf2text)
 - tesseract-ocr: [multilingual-pdf2text](https://github.com/shahrukhx01/multilingual-pdf2text)
 
-  [Scanned PDF Text Extrater](https://github.com/arjun-mavonic/scanned-pdf-text-extractor)
+  [Scanned PDF Text Extrater](https://github.com/arjun-mavonic/scanned-pdf-text-extractor) <br>
   [PDF-Data-Extractor](https://github.com/jonehuan98/PDF-Data-Extractor)
